@@ -1,0 +1,5 @@
+stepDefinitions\LoginStepDefinition.class
+runner\TestRunner.class
+stepDefinitions\LoginStepDefinition2.class
+pom\Register.class
+pom\SkipSign.class
